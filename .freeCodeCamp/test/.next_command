@@ -19,3 +19,8 @@ declare -p IFS
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c "SELECT name FROM students;"
+psql --username=freecodecamp --dbname=students
+psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c "SELECT first_name FROM students;"
+man psql
+psql --help
