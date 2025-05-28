@@ -1,2 +1,16 @@
 psql --username=freecodecamp --dbname=students
 ./insert_data.sh
+help while read
+$IFS
+echo $IFS
+echo ${IFS[*]}
+$ printf %q $IFS
+printf %q $IFS
+printf %q '$IFS'
+printf %q '$IFS'
+printf %q ${IFS[*]}
+printf %q ${IFS[2]}
+printf %q $IFS[2]
+echo %q $IFS[2]
+echo "%q" $IFS[2]
+echo "$IFS"
