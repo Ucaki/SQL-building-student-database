@@ -34,3 +34,7 @@ help test
 /-z
 / -z
 man bash
+help cp
+man -k cp
+cp --help
+cp courses.csv courses_test.csv
