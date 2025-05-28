@@ -16,3 +16,4 @@ echo "%q" $IFS[2]
 echo "$IFS"
 ./insert_data.sh
 declare -p IFS
+./insert_data.sh
