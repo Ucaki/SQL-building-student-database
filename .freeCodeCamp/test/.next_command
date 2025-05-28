@@ -25,3 +25,12 @@ psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c "S
 man psql
 psql --help
 ./insert_data.sh
+psql --help
+-z --help
+man -z
+help
+help test
+/- z
+/-z
+/ -z
+man bash
