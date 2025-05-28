@@ -24,3 +24,4 @@ psql --username=freecodecamp --dbname=students
 psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c "SELECT first_name FROM students;"
 man psql
 psql --help
+./insert_data.sh
