@@ -84,3 +84,4 @@ cp stundents.csv stundents_test.csv
 cp students.csv stundents_test.csv
 cp students.csv students_test.csv
 ./insert_data.sh
+./insert_data.sh
